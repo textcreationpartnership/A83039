@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament. Concerning the late rebellious insurrection in the county of Kent. VVhereby a committee is appointed for the said county, forthwith to sieze upon all the armes and horses, and imprison the persons of all those that have appeared in, or given any assistance to that insurrection, and rebellion, or have willingly relieved any of the said rebels, with armes, ammunition, money or otherwise. Die Mercurii, 16 Augusti 1643. Ordered by the Lords Assembled in Parliament, that this ordinance be forthwith printed and published. John Browne Cler Parl.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83039</idno><idno type="EEBO-CITATION">99872687</idno>
+  <idno type="VID">125133</idno>
+  <idno type="EEBO-PROQUEST">2248514926</idno>
+  
+            <idno type="STC">Wing E1825</idno>
+            <idno type="STC">Thomason E65_23</idno>
+            <idno type="STC">ESTC R4477</idno>
+            <idno type="PROQUEST">99872687</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872687e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125133)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E65[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament. Concerning the late rebellious insurrection in the county of Kent. VVhereby a committee is appointed for the said county, forthwith to sieze upon all the armes and horses, and imprison the persons of all those that have appeared in, or given any assistance to that insurrection, and rebellion, or have willingly relieved any of the said rebels, with armes, ammunition, money or otherwise. Die Mercurii, 16 Augusti 1643. Ordered by the Lords Assembled in Parliament, that this ordinance be forthwith printed and published. John Browne Cler Parl.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>August 19. Printed for Iohn Wright, in the Old-Bailey,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Kent (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125133:1"/>
+            <pb facs="tcp:125133:1"/>
+            <p> AN ORDINANCE Of The LORDS and COMMONS Assembled in PARLIAMENT.</p>
+            <p>Concerning the late Rebellious INSURRECTION in the County of <hi>KENT.</hi>
+            </p>
+            <p>VVhereby a Committee is appointed for the said County, forthwith to sieze upon all the Armes and Horses, and imprison the Persons of all those that have appeared in, or given any assistance to that Insurrection, and Rebellion, or have willingly relieved any of the said Rebels, with Armes, Ammunition, Money or otherwise.</p>
+            <p>Die Mercurii, 16 Augusti 1643.</p>
+            <p>
+               <hi>ORdered by the Lords Assembled in Parliament, that this Ordinance be forthwith Printed and Published.</hi>
+            </p>
+            <p>John Browne Cler Parl.</p>
+            <p>August 19. Printed for Iohn Wright, in the Old-Bailey, 1643.</p>
+            <pb facs="tcp:125133:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="1" facs="tcp:125133:2"/>
+            <head>AN ORDINANCE Of the LORDS &amp; COMMONS Assembled In PARLIAMENT.</head>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii, 16 Augustii, 1643.</date>
+               </dateline>
+            </opener>
+            <p>VVHereas divers ill-affected per<g ref="char:EOLhyphen"/>sons of the County of <hi>Kent,</hi> have unlawfully and Trayterously assembled themselves together, and in a War<g ref="char:EOLhyphen"/>like and hostile manner, possessed themselves of divers Townes and places in that Coun<g ref="char:EOLhyphen"/>ty, and have Trayterously, and Rebelliously, Levied Warre against the King and Parlia<g ref="char:EOLhyphen"/>ment, and Robbed, Killed, and spoyled divers of his Majesties Subjects; And notwith<g ref="char:EOLhyphen"/>standing, they were invited by an Ordinance of both houses of Parliament to lay down their Armes, and every man to depart in Peace to
+<pb n="2" facs="tcp:125133:3"/> their severall places of habitation, with an of<g ref="char:EOLhyphen"/>fer, not onely to passe by their offences then al<g ref="char:EOLhyphen"/>ready committed by them, but to give redresse to any just grievance that they should in a peace<g ref="char:EOLhyphen"/>able and Parliamentary way present to the Parliament, yet they wilfully and contemptu<g ref="char:EOLhyphen"/>ously refused that favour offered unto them, and gave Battaile to those Forces sent by Au<g ref="char:EOLhyphen"/>thority of both Houses to suppresse that Insur<g ref="char:EOLhyphen"/>rection, where, by Gods great goodnesse they were wholly Routed, and a very great number taken Prisoners; Now to thend, the like In<g ref="char:EOLhyphen"/>conveniences may be prevented hereafter; and that the Peace of the County may be the better setled, It is Ordained by the Lords and Com<g ref="char:EOLhyphen"/>mons in this present Parliament assembled, That Sir <hi>Henry Vane</hi> senior, Sir <hi>John Sidley,</hi> Sir <hi>Anthony Welden,</hi> Sir <hi>Michaell Levesay,</hi> Sir <hi>Henry Heyman,</hi> M. <hi>Nut,</hi> M. <hi>Augustine Skinner,</hi> M. <hi>Thomas Blunt,</hi> M. <hi>Thomas Frank<g ref="char:EOLhyphen"/>lyn,</hi> Sir <hi>Edward Boyse,</hi> M. <hi>Browne,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Springate,</hi> Sir <hi>Edward Master,</hi> M. <hi>John Boys,</hi> M. <hi>John Boyse,</hi> Sir <hi>Peter Wroth,</hi> M. <hi>Richard Lee,</hi> Sir <hi>Tho. Walsingham,</hi> M. <hi>Tho<g ref="char:EOLhyphen"/>mas Seyliard,</hi> and Sir <hi>John Robarts,</hi> or any three of them, shall forthwith seize upon all the Armes and Horses, of all those that have in person appeared in that Insurrection and Re<g ref="char:EOLhyphen"/>bellion, And of all such as have willingly assi<g ref="char:EOLhyphen"/>sted or countenanced the same; Or that have
+<pb n="3" facs="tcp:125133:3"/> willingly relieved any of the said Rebells, with Armes, Ammunition, Money, or otherwise; Or that have refused to give their Assistance, (being thereunto required) to suppresse the said Insurrection or Rebellion; And that the Hor<g ref="char:EOLhyphen"/>ses that shall be so seized, shall be sent to the City of <hi>London,</hi> to the Commissary for Horses there, to be Entred, and Lysted for the Service of the State, And that the Armes so to be sei<g ref="char:EOLhyphen"/>zed, shall be layd up in some p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace of safety in that County; To th'end, the same may be di<g ref="char:EOLhyphen"/>stributed to the well affected Party of that County, when occasion requireth, And it is further Ordained by the Authority aforesaid, That the said Sir <hi>Henry Vane</hi> senior, Sir <hi>John Sidley,</hi> Sir <hi>Anthony VVelden,</hi> Sir <hi>Michaell Levesay,</hi> Sir <hi>Henry Heyman,</hi> M. <hi>Nut,</hi> M. <hi>Au<g ref="char:EOLhyphen"/>gustine Skinner,</hi> M. <hi>Thomas Blunt,</hi> M. <hi>Thomas Franklyn,</hi> Sir <hi>Edward Boyse,</hi> M. <hi>Browne,</hi> Sir <hi>William Springate,</hi> Sir <hi>Edward Master,</hi> M. <hi>John Boyse,</hi> M. <hi>John Boyse,</hi> Sir <hi>Peter Wroth,</hi> M. <hi>Richard Lee,</hi> Sir <hi>Thomas Walsingham,</hi> M. <hi>Thomas Seyliard,</hi> and Sir <hi>John Robarts,</hi> or any three of them, shall have power, and are hereby Authorized to enter upon, and seize all and singular the Lands, Tenements, and He<g ref="char:EOLhyphen"/>reditaments, &amp; the Goods, Cattell, and Chat<g ref="char:EOLhyphen"/>tells, of all and singular the persons that were Actors, Countenancers, or Abettors in the said Rebellion, who did not submit to the said Or<g ref="char:EOLhyphen"/>dinance,
+<pb n="4" facs="tcp:125133:4"/> and immediately come in, lay downe their Armes, and repaire to their places of ha<g ref="char:EOLhyphen"/>bitation, and to seize and Imprison their persons To th'end, they be proceeded against according to the Law, and the merit of their offence; Provided alwayes, and it is fur<g ref="char:EOLhyphen"/>ther Ordeined by the Authority aforesaid, That the said Sir <hi>Henry Vane</hi> Senior, Sir <hi>Iohn Sidley,</hi> Sir <hi>Anthony Welden,</hi> Sir <hi>Mi<g ref="char:EOLhyphen"/>chael Levesay,</hi> Sir <hi>Henry Heyman,</hi> M. <hi>Nut,</hi> M. <hi>Augustine Skinner,</hi> M. <hi>Thomas Blunt,</hi> M. <hi>Thomas Franklyn,</hi> Sir <hi>Edward Boyse,</hi> M. <hi>Browne,</hi> Sir <hi>William Springate,</hi> Sir <hi>Edward Master,</hi> M. <hi>Iohn Boyse,</hi> M. <hi>Iohn Boyse,</hi> Sir <hi>Peter Wroth,</hi> M. <hi>Richard Lee,</hi> Sir <hi>Thomas Walsingham,</hi> M. <hi>Thomas Seyliard,</hi> and Sir <hi>Iohn Robarts;</hi> or any three of them, shall have power, and are hereby authorised to compound with such of the Persons aforesaid, as they shall thinke to be fit objects of such mercifull Proceedings, and to receive of them such sums of Money by way of fine &amp; Ransome, as they or any three of them shall thinke fit, having re<g ref="char:EOLhyphen"/>spect to the offence, and the Estate of the Per<g ref="char:EOLhyphen"/>son offending, and to certifie the names and sums received of every Person and return the same to the <hi>Guild-Hall,</hi> London, to the Trea<g ref="char:EOLhyphen"/>surers appointed to receive money and Plate upon the Propositions, and every Person that shall compound and pay their money, according
+<pb n="5" facs="tcp:125133:4"/> to this Ordinance, shall be freed in their Per<g ref="char:EOLhyphen"/>sons and Estates, and discharged from any further Prosecution for the Crimes and of<g ref="char:EOLhyphen"/>fences committed by them in that Rebel<g ref="char:EOLhyphen"/>lion and Insurrection, and it is further Ordei<g ref="char:EOLhyphen"/>ned that the said Sir <hi>Henry Vane</hi> senior, Sir <hi>Iohn Sedley,</hi> Sir <hi>Anthony Welden,</hi> Sir <hi>Michael Levesay,</hi> Sir <hi>Henry Heyman,</hi> M. <hi>Nut,</hi> M. <hi>Au<g ref="char:EOLhyphen"/>gustine Skinner,</hi> M. <hi>Thomas Blunt,</hi> M. <hi>Thomas Franklyn,</hi> Sir <hi>Edward Boyse,</hi> M. <hi>Browne,</hi> Sir <hi>William Springate;</hi> Sir <hi>Edward Master,</hi> M. <hi>Iohn Boyse,</hi> M. <hi>John Boyse,</hi> Sir <hi>Peter Wroth,</hi> M. <hi>Richard Lee,</hi> Sir <hi>Thomas Walsingham,</hi> M. <hi>Thomas Seyliard,</hi> &amp; S. <hi>John Robarts,</hi> and eve<g ref="char:EOLhyphen"/>ry of them shall be protected and saved harme<g ref="char:EOLhyphen"/>lesse by the Authority of both Houses of Par<g ref="char:EOLhyphen"/>liament, for what they shall doe in pursuance of this Ordinance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
